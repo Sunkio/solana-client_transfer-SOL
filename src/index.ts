@@ -1,0 +1,1 @@
+    await sendSol(connection, 0.1*Web3.LAMPORTS_PER_SOL, Web3.Keypair.generate().publicKey, payer)
